@@ -44,7 +44,26 @@
       "license": "CC BY-NC-SA",
       "tags": ["course"],
       "fileSize": 944863,
-      "changelog": "2.1.0 - Added 10 new tracks\n2.0.0 - Full soundtrack replacement\n1.0.0 - Initial release"
+      "changelog": "1.0.0 - Initial release"
+    },
+    {
+      "id": "toads-factory",
+      "name": "Toad's factory",
+      "type": "mod",
+      "version": "1.0.0",
+      "author": "Unknown",
+      "description": "Toad's Factory",
+      "thumbnail": "",
+      "screenshots": [
+        "",
+        ""
+      ],
+      "download": "https://github.com/Nothingbutauser/nothings-coffeeshop-repo/releases/download/toads-factory/toads-factory.zip",
+      "releaseDate": "2024-03-10",
+      "license": "CC BY-NC-SA",
+      "tags": ["course"],
+      "fileSize": 41624657,
+      "changelog": "1.0.0 Initial Release"
     }
   ]
 }
